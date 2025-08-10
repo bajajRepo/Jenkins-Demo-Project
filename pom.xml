@@ -6,7 +6,6 @@
     <version>0.0.1-SNAPSHOT</version>
 
     <name>WebView</name>
-    <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 
     <properties>
@@ -129,7 +128,7 @@
         <dependency>
             <groupId>uk.co.caprica</groupId>
             <artifactId>vlcj</artifactId>
-            <version>5.0.0</version>
+            <version>4.9.0</version>
         </dependency>
         <dependency>
             <groupId>com.github.stephenc.monte</groupId>
