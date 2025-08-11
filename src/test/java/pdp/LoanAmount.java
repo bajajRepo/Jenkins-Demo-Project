@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 
 public class LoanAmount extends BaseClass{
 
-	private By loanAmountTextfield = By.xpath("//input[@aria-label='loan-amount-input']");
+	private By loanAmountTextfield = By.xpath("//input[@aria-label='loan-amount-input1']");
 	private By errormsg = By.xpath("//div[@class='fs-12 flex invalid-text fw-400 input-max-width']");
 	
 	
